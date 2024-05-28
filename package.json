@@ -1,0 +1,13 @@
+{
+  "name": "reverse-string-ahammed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Noyon Ahammed Sojon",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Reverse any string just one line code."
+}
